@@ -1,3 +1,7 @@
+# Recoding the React Tutorial - a Tic-Tac-Toe game rebuilt by React Hooks.
+
+The origin tutorial on React website https://reactjs.org/tutorial/tutorial.html was using React class component, and using the prop passing mechanism and maintaining state. In this project, I recoded the Tic-Tac-Toe game, using React Hooks. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
