@@ -2,6 +2,22 @@
 
 The origin tutorial on React website https://reactjs.org/tutorial/tutorial.html was using React class component, and using the prop passing mechanism and maintaining state. In this project, I recoded the Tic-Tac-Toe game, using React Hooks. 
 
+## Running locally
+1. Clone this repo
+2. cd tic-tac-toe
+3. npm start
+
+## Tech Stack
+1. ReactJs Hooks
+
+## Mockup
+
+![1](https://user-images.githubusercontent.com/61717396/121283651-d5e9c000-c91e-11eb-90dd-ddbfb15d7586.png)
+![2](https://user-images.githubusercontent.com/61717396/121283664-dbdfa100-c91e-11eb-9c10-477117610487.png)
+![3](https://user-images.githubusercontent.com/61717396/121283669-de41fb00-c91e-11eb-8067-10be15ff6171.png)
+![4](https://user-images.githubusercontent.com/61717396/121283675-e0a45500-c91e-11eb-838b-50aa7ef061a3.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
